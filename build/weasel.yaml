@@ -1,0 +1,152 @@
+__build_info:
+  rime_version: 1.8.5
+  timestamps:
+    weasel: 1714906094
+    weasel.custom: 1714906115
+app_options:
+  browser.exe:
+    inline_preedit: true
+  firefox.exe:
+    inline_preedit: true
+  iexplore.exe:
+    inline_preedit: true
+config_version: "2024-03-02"
+global_ascii: false
+preset_color_schemes:
+  mint_dark_blue:
+    author: "Mintimate <\"Mintimate's Blog\">"
+    back_color: 0x424242
+    border_color: 0x424242
+    candidate_text_color: 0xefefef
+    comment_text_color: 0xefefef
+    hilited_back_color: 0x424242
+    hilited_candidate_back_color: 0xc6c01a
+    hilited_candidate_text_color: 0xefefef
+    hilited_comment_text_color: 0xffffff
+    hilited_label_color: 0xffffff
+    hilited_text_color: 0xc6c01a
+    label_color: 0xefefef
+    name: "黑水鸭／Mint Dark Blue"
+    shadow_color: 0xb4000000
+    text_color: 0x6495ed
+  mint_dark_green:
+    author: "Mintimate <\"Mintimate's Blog\">"
+    back_color: 0x323232
+    candidate_list_layout: stacked
+    candidate_text_color: 0xE8E8E8
+    color_space: srgb
+    comment_text_color: 0xBEBEBE
+    hilited_candidate_back_color: 0x83C81C
+    hilited_candidate_label_color: 0xEFEFEF
+    hilited_candidate_text_color: 0xEFEFEF
+    hilited_comment_text_color: 0xF4FAF8
+    hilited_text_color: 0xed9564
+    label_color: 0xB0B0B0
+    mutual_exclusive: false
+    name: "碧月青／Mint Dark Green"
+    text_color: 0x83C81C
+    text_orientation: horizontal
+    translucency: true
+  mint_light_blue:
+    author: "Mintimate <\"Mintimate's Blog\">"
+    back_color: 0xefefef
+    border_color: 0xefefef
+    candidate_text_color: 0x424242
+    comment_text_color: 0xcac9c8
+    hilited_back_color: 0xefefef
+    hilited_candidate_back_color: 0xed9564
+    hilited_candidate_text_color: 0xefefef
+    hilited_comment_text_color: 0xefefef
+    hilited_label_color: 0xcac9c8
+    hilited_text_color: 0xed9564
+    label_color: 0xcac9c8
+    name: "蓝水鸭／Mint Light Blue"
+    shadow_color: 0xb4000000
+    text_color: 0x6495ed
+  mint_light_green:
+    author: "Mintimate <\"Mintimate's Blog\">"
+    back_color: 0xEFEFEF
+    candidate_list_layout: stacked
+    candidate_text_color: 0x323232
+    color_space: srgb
+    comment_text_color: 0x878787
+    hilited_candidate_back_color: 0x7BAE4F
+    hilited_candidate_label_color: 0xEFEFEF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xDFF0EE
+    hilited_text_color: 0xed9564
+    label_color: 0x323232
+    mutual_exclusive: false
+    name: "碧皓青／Mint Light Green"
+    text_color: 0x7BAE4F
+    text_orientation: horizontal
+    translucency: true
+  nord:
+    author: Mirtle
+    back_color: 0xECEFF4
+    border_color: 0xECEFF4
+    candidate_back_color: 0xECEFF4
+    candidate_text_color: 0x2E3440
+    color_format: rgba
+    comment_text_color: 0xD08770
+    hilited_back_color: 0xEBCB8B
+    hilited_candidate_back_color: 0x8FBCBB
+    hilited_candidate_border_color: 0x8FBCBB
+    hilited_candidate_text_color: 0x2E3440
+    hilited_comment_text_color: 0xBF616A
+    hilited_label_color: 0x4C566A
+    hilited_mark_color: 0xBF616A
+    hilited_text_color: 0x000000
+    label_color: 0x4C566A
+    name: "远山／Nord"
+    shadow_color: 0x000000b4
+    text_color: 0x2E3440
+show_notifications: true
+show_notifications_time: 1200
+style:
+  antialias_mode: default
+  ascii_tip_follow_cursor: false
+  candidate_abbreviate_length: 30
+  candidate_list_layout: stacked
+  click_to_capture: false
+  color_scheme: mint_dark_blue
+  color_scheme_dark: mint_dark_blue
+  comment_font_face: "Microsoft YaHei"
+  comment_font_point: 10
+  display_tray_icon: false
+  enhanced_position: true
+  font_face: "Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Microsoft YaHei, SF Pro, Segoe UI Emoji, Noto Color Emoji"
+  font_point: 12
+  fullscreen: false
+  horizontal: true
+  inline_preedit: false
+  label_font_face: "Microsoft YaHei"
+  label_font_point: 12
+  label_format: "%s"
+  layout:
+    align_type: center
+    border_width: 0
+    candidate_spacing: 22
+    corner_radius: 8
+    hilite_padding: 8
+    hilite_spacing: 6
+    margin_x: 8
+    margin_y: 8
+    max_height: 600
+    max_width: 0
+    min_height: 0
+    min_width: 145
+    round_corner: 8
+    shadow_offset_x: 4
+    shadow_offset_y: 4
+    shadow_radius: 0
+    spacing: 10
+  mark_text: "|"
+  mouse_hover_ms: 0
+  paging_on_scroll: true
+  preedit_type: composition
+  text_orientation: horizontal
+  vertical_auto_reverse: false
+  vertical_text: false
+  vertical_text_left_to_right: false
+  vertical_text_with_wrap: false

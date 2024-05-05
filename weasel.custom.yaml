@@ -1,0 +1,8 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun May  5 18:48:35 2024"
+  rime_version: 1.8.5
+patch:
+  "style/color_scheme": mint_dark_blue
